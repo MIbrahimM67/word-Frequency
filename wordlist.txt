@@ -1,0 +1,127 @@
+BS (Computer Science)
+Introduction
+The BS Computer Science program at QAU was started in 2013. It provides a well-integrated balance of theoretical and practical knowledge required for developing reliable and usable software tools for different fields. The program enables students to design, implement and manage systems combining scientific, computational, communication and multimedia facilities in different domains. The BS program is accredited by National Computing Education Accreditation Council (NCEAC).
+
+Program Educational Objectives
+Program Learning Outcomes
+BS University Policy/Rules
+BS Program Structure
+During the B.S. students will be informed through research expertise of the faculty about the current and future issues affecting the usage and development of computer-based systems. Initially students learn basics of computing discipline through foundation courses and will build their knowledge of the discipline through core courses. In the last three semesters students will extend their knowledge in a focus area of their choice through elective courses. The final year compulsory project will give students the opportunity to consolidate and demonstrate the knowledge and skills gained from the entire course material.
+
+Focus Areas
+After providing the students with a solid foundation based on foundation and core courses in Computing, the BS program will give students the opportunity to enrich their knowledge in an area through elective courses. These elective courses will on one hand provide in-depth knowledge, and on the other will enable students to work on and solve practical problems in the area by using latest techniques and tools. Some focus areas are:
+
+Artificial Intelligence
+Data Science
+Software Engineering
+Human Centered Computing
+Information Systems
+Networks and Security
+Details about Admissions
+Courses Overview
+Four years of BS program is divided into eight semesters. In each semester, students are offered 15 to 18 credit hours of courses, where one credit hour means one hour of teaching (or three hours of lab) per week. The courses are divided into four groups:
+
+University courses are required to be studied by every student of the university, irrespective of their department.
+Faculty courses are offered from other departments of Faculty of Natural Sciences (FNS), Faculty of Biological Sciences (FBS), and Faculty of Social Sciences (FSS).
+Computer science foundation & core courses are offered by the department of computer sciences and have to be studied by every student of BS (CS).
+Elective courses allow students to specialize in their field of interest. They are offered in the last three semesters.
+University Courses	9 courses	25 Credit Hours
+English-1, English-2, English-3, Basic Psychology, Calculus & Analytical Geometry-I, Calculus & Analytical Geometry-II, Pakistan Studies, Islamic Studies, Introduction to Computing
+Faculty Courses	8 courses	24 Credit Hours
+Discrete Mathematics, Linear Algebra & Differential Equations, Probability & Statistics, Introductory Mechanics & Waves, Electricity Magnetism and Thermal Physics, General Chemistry, Introductory Biology, Introductory Economics
+Computer Science Foundation & Core Courses
+(see the table below)	21 courses	66 Credit Hours
+Computer Science Elective Courses
+(see the list below the table)	5 courses	15 Credit Hours
+Total Credit Hours	
+130 Credit Hours
+
+Computer Science Foundation & Core Courses and the Scheme of Study
+Semester 1	Semester 2
+EN-101: English-13	EN-102: English-23
+PS-101: Pakistan Studies2	IS-101: Islamic Studies2
+MA-101: Calculus & Analytical Geometry-I3	MA-102: Calculus & Analytical Geometry-II3
+PH-111: Introductory Mechanics & Waves2+1	PH-112: Electricity, Magnetism and Thermal Physics2+1
+CS-101: Introduction to Computing3	MA-203: Discrete Mathematics3
+CS-105: Problem Solving and Programming2+1	CS-121: Object Oriented Programming3+1
+Credit Hours17	Credit Hours18
+Semester 3	Semester 4
+EN-201: English - 33	CH-100: General Chemistry2+1
+PY-101: Introdution to Psychology3	CS-225: Database Systems3
+CS-211: Data Structures3+1	MA-205: Differential Equations & Linear Algebra3
+CS-212: Human Computer Interaction3	CS-213: Computer Organization & Assembly Language3+1
+CS-103: Introduction to Computer Organization3	CS-222: Analysis and Design of Software Systems3
+Credit Hours16	Credit Hours16
+Semester 5	Semester 6
+ST-101: Probability and Statistics3	EC-201: Principles of Economics3
+BY-201: Introductory Biology3	CS-331: Theory of Automata3
+CS-223: Operating Systems3	CS-312: Computer Communications & Networks3
+CS-311: Analysis & Design of Algorithms3	CS-423: Computer Graphics3
+CS-322: Software Construction2+1	Elective Course 13
+CS-414: Artificial Intelligence3	 
+Credit Hours18	Credit Hours15
+Semester 7	Semester 8
+CS-489: Project-I3	CS-490: Project-II3
+CS-332: Net Centric Programming3	CS-449: ICT and Society3
+CS-411: Compiler Construction3	CS 413: Introduction to Information Security3
+Elective Course 23	Elective Course 43
+Elective Course 33	Elective Course 53
+Credit Hours15	Credit Hours15
+List of Elective Courses
+CS-324: Web Application Development
+CS-416: Introduction to Cryptography
+CS-425: Introduction to Computer Vision
+CS-431: Introduction to Recommender Systems
+CS-442: Mobile Application Development
+CS-443: Network Architecture
+CS-444: Knowledge Based Systems
+CS-445: Information Systems (Pre-Requisite CS-225: DBS)
+CS-446: Introduction to Multimedia Communication
+CS-447: Neural Networks
+CS-448: Network Management
+CS-450: Wireless and Mobile Networks
+CS-451: Introduction to Social Computing
+CS-452: Introduction to Game Development
+CS-454: Introduction to Semantic Web
+CS-455: Introduction to Natural Language Processing
+CS-456: Introduction to Web Services (Pre-Requisite CS-324: WAD)
+CS-457: Web Application Frameworks
+CS-458: Introduction to Data Mining
+CS-459: Introduction to Machine learning
+CS-460: Introduction to Deep Learning
+CS-461: Introduction to Blockchain Technologies
+CS-462: Introduction to Cyber Security
+CS-464: Modeling and Simulation
+CS-466: Digital Image Processing
+CS-471: Theory of Programming
+CS-472: Information Interfaces
+CS-473: Multimedia Applications and Design
+CS-474: Software testing techniques
+CS-475: Emerging Trends in Software Development
+CS-476: Enterprise Information
+CS-477: Interactive Application Design
+CS-478: Web Technologies
+CS-479: Web Information Retrieval
+CS-480: Selected topic in CS
+CS-481: Rapid Interaction Design
+CS-482: Web Engineering
+CS-483: Software Quality Assurance (Pre-Requisite CS-322: SC)
+CS-484: Software Engineering
+CS-486: Software Project Management (Pre-Requisite CS-322: SC)
+CS-487: Formal Methods for Software Engineering
+CS-488: Software Entrepreneurship
+CS-491: Real Time Systems
+CS-497: Computing Case Studies
+Click here to see the details about the fee structure
+Useful links
+QAU Admissions Contact
+Department of Computer Sciences,
+Quaid-i-Azam University,
+Islamabad, 45320, Pakistan
+Tel : +92 (051) 9064-2057
+Our Programs
+PhD (Computer Science)
+MS (Information Science & Technology)
+MPhil (Computer Science)
+MS (Data Science)
+BS (Computer Science)
